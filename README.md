@@ -1,6 +1,6 @@
 # Menu Contexto do W11
 
- Altera o menu de contexto do W11 para sempre exibir todas as opU+00e7U+00f5es
+ Altera o menu de contexto do W11 para sempre exibir todas as opções
 
 ## Como usar
 
