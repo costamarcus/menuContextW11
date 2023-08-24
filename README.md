@@ -4,8 +4,8 @@
 
 ## Como usar
 
-- 1 - Fazer o download do arquivo .txt.
-- 2 - Renomear para .bat.
-- 3 - Executar como administrador.
-- 4 - Fazer logout no sistema.
-- 5 - Conferir se tudo ocorreu conforme esperado.
+- 1 - Fazer o download do arquivo
+- 2 - Salve tudo o que estiver fazendo
+- 3 - Executar como administrador start.bat
+- 4 - Fazer login novamente no Windows
+- 5 - Conferir se tudo ocorreu conforme esperado
